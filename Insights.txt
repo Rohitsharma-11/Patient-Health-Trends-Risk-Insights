@@ -1,0 +1,39 @@
+1. Project Overview:
+    - This notebook focuses on analyzing and visualizing factors contributing to heart disease, using a structured data science pipeline:
+
+    - Data Cleaning
+    - Data Understanding
+    - Data Visualization
+    - Summary & Insights
+
+
+2. Key Insights from the Analysis:
+
+* Gender:
+    - Males are more frequently affected by heart disease compared to females.
+* Age Group:
+    - People aged 50 to 70 are most commonly affected by heart-related diseases.
+* Cholesterol Levels:
+    - Patients with heart disease tend to have slightly higher cholesterol levels than those without.
+* Heart Rate:
+    - Middle-aged individuals show the highest maximum heart rates, followed by seniors.
+    - Older individuals tend to have the lowest heart rates.
+* Chest Pain:
+    - Even patients with no chest pain can be at risk of heart disease.
+* ECG Results:
+    - Patients with a “high-risk” ECG report (type 2) are often heart disease positive.
+* Exercise-Induced Angina:
+    - Chest pain during exercise is a significant indicator of heart issues.
+* ST Slope:
+    - The slope of the ST segment in ECG readings correlates strongly with heart disease.
+* Major Blood Vessels:
+    - Patients with more major vessels visible in imaging are more likely to have heart disease.
+
+
+3. Profile of Heart Disease Patients:
+
+* Chest Pain Type: Often no chest pain, contrary to common assumptions.
+* Fasting Blood Sugar: Many do not have diabetes.
+* ECG Results: Frequently show high risk or normal readings.
+* Exercise Angina: Most patients report yes, but some report no.
+* ST Slope: Shows a clear pattern in heart patients.
